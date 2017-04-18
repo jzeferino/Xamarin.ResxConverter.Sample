@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Resouces.en-US.resx-->
+  <string name="sample_string">This is a sample string.</string>
+</resources>
